@@ -1,0 +1,11 @@
+FarmID,name,organic,address,Latitude,Longitude
+1001,Milky Way,False,Vicar Road 91,63.725,24.2014
+1002,Happy Cows,False,Old Carriage Rd. 2,63.7801,24.2191
+1003,Fresh Milk Ltd,False,Eagleway 9,63.9192,23.8128
+1004,Astrid Organic Farm,True,Emmenthaler 21,64.7074,26.8645
+1005,Juusola Farm,False,Juusola Rd. 3,63.6654,23.3241
+1006,Dozen Cows Farms,False,Upphill Rd. 98,63.8904,23.9788
+1007,Little Farm on the Prairie,False,"31, Green Road",63.5807,23.9345
+1008,Jukola Organic Milk,True,2 Mill St.,62.5953,22.4814
+1009,The Four Brothers Farm,False,11 Orchard Rd,63.8947,23.8548
+1010,The Tenth Farm,False,12 Evergreen Rd.,63.6616,24.3866
